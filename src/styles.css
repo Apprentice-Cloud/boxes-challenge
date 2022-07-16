@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  width: 100px;
+  height: 50px;
+  border: 1px solid #222;
+  display: inline-block;
+  margin: 5px;
+  border-radius: 3px;
+}
